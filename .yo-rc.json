@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "zongyan",
+      "authorEmail": "zongyan@meituan.com",
+      "authorUrl": ""
+    }
+  }
+}
